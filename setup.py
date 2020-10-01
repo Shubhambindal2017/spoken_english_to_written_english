@@ -11,7 +11,7 @@ def open_file(fname):
 
 setup(
       name = 'spoken_english_to_written_english',
-      packages = ['spoken_english_to_written_english'],
+      packages = ['spoken2written'],
       version='0.01',
       description='Spoken english to written english conversion system',
       author='Shubham Bindal',
