@@ -18,15 +18,15 @@ This is a Python module which can that can convert a paragraph of spoken english
 	>>
 	[IN]:Enter Your paragraph of spoken english:
 	
-	I earn fifty dollars per day. My contact number contains double 9 .... 
+	I earn fifty dollars per day. My contact number contains double 9.
 	
 	[OUT]:The input Spoken English Paragraph: 
 	
-	" I earn fifty dollars per day. My contact number contains double 9 ....
+	" I earn fifty dollars per day. My contact number contains double 9. "
 		
 	 Converted Written English Paragraph: 
 	 
-	 " I earn $50 per day. My contact number contains 99 ....
+	 " I earn $50 per day. My contact number contains 99. "
 
 	
 
@@ -37,11 +37,11 @@ This is a Python module which can that can convert a paragraph of spoken english
 ## Yet to implement
 
 
-3.  Handling of Dates e.g. Today's Date is twenty-eight October two thousand twenty as Today's Date is 28-10-2020/2020-10-28.
+1. Handling of Dates.
 
-4. Handling of Punctuation.
+2. Handling of Punctuation.
 
-5. Handling of proper spaces after one sentance.
+3. Handling of proper spaces after one sentance.
 
 
 
