@@ -13,7 +13,6 @@ setup(
       name = 'spoken_english_to_written_english',
       packages = ['spoken_english_to_written_english'],
       version='0.01',
-      license=open('LICENSE.txt').read(),
       description='Spoken english to written english conversion system',
       author='Shubham Bindal',
       author_email='201751054@iiitvadodara.ac.in',
